@@ -1,0 +1,291 @@
+Install and Update All Your Programs at Once
+No toolbars. No clicking next. Just pick your apps and go.
+
+A Ninite Installer
+Always Up-to-date
+You don't have to watch for updates. Our bots do that. Here's what's new:
+
+WinSCP updated to 6.1.0.
+yesterday at 6:34 am
+
+iTunes updated to 12.12.9.4.
+yesterday at 3:31 am
+
+Firefox updated to 113.0.2.
+Tuesday at 11:13 pm
+
+TeamViewer 15 updated to 15.42.5.
+Tuesday at 5:53 pm
+
+Google Drive for Desktop updated to 75.0.2.0.
+Monday at 1:36 pm
+
+more news
+
+Trusted by Millions
+We install and update about a million apps each day for our home users and Ninite Pro subscribers.
+
+The press likes us too:
+
+“I'll bet the service saved me a couple hours”
+PCWorld
+
+“Ninite.com frees up your day”
+The Christian Science Monitor
+
+“This post can be fairly short because Ninite works exactly as advertised.”
+Lifehacker
+
+1. Pick the apps you want
+Web Browsers
+ Chrome icon Chrome
+Fast Browser by Google 113.0.5672.127
+ Opera icon Opera
+Alternative Browser 99.0.4788.13
+ Firefox icon Firefox
+Extensible Browser 113.0.2
+ Edge icon Edge
+Microsoft Edge Browser 113.0.1774.50
+Messaging
+ Zoom icon Zoom
+Video Conference 5.14.8.16213
+ Discord icon Discord
+Voice and Text Chat 1.0.9005
+ Skype icon Skype
+Internet Telephone 8.97.0.404
+ Pidgin icon Pidgin
+Multi-IM Client 2.14.12
+ Thunderbird icon Thunderbird
+Email Reader by Mozilla 102.11.0
+ Trillian icon Trillian
+Trillian IM 6.5.0.18
+Media
+ iTunes icon iTunes
+Music/Media Manager 12.12.9.4
+ VLC icon VLC
+Great Video Player 3.0.18
+ AIMP icon AIMP
+Music Player 5.11.2429
+ foobar2000 icon foobar2000
+Music Player 2.0
+ Winamp icon Winamp
+Music Player 5.90.0.9999
+ MusicBee icon MusicBee
+Music Manager & Player 3.4.8033.18564
+ Audacity icon Audacity
+Audio Editor 3.3.2
+ K-Lite Codecs icon K-Lite Codecs
+Video decoders plus Media Player Classic 17.6.0
+ GOM icon GOM
+Video Player 2.3.14.5270
+ Spotify icon Spotify
+Online Music Service 1.2.11.916
+ CCCP icon CCCP
+Video decoders plus MPC 2015.10.19
+ MediaMonkey icon MediaMonkey
+Music Organizer 4.1.31.1919
+ HandBrake icon HandBrake
+Convert Videos 1.6.1 (requires .NET 5)
+Runtimes
+ Java (AdoptOpenJDK) x64 8 icon Java (AdoptOpenJDK) x64 8
+64-bit Java Runtime (JRE) 8u372-b07
+ Java (AdoptOpenJDK) 8 icon Java (AdoptOpenJDK) 8
+32-bit Java Runtime (JRE) 8u362-b09
+ Java (AdoptOpenJDK) x64 11 icon Java (AdoptOpenJDK) x64 11
+64-bit Java Runtime (JRE) 11.0.19
+ Java (AdoptOpenJDK) x64 17 icon Java (AdoptOpenJDK) x64 17
+64-bit Java Runtime (JRE) 17.0.7
+ .NET 4.8 icon .NET 4.8
+Microsoft .NET 4.8.04084
+ .NET Desktop Runtime x64 5 icon .NET Desktop Runtime x64 5
+.NET Desktop Runtime (x64) 5.0.17.31219
+ .NET Desktop Runtime 5 icon .NET Desktop Runtime 5
+.NET Desktop Runtime (x86) 5.0.17.31219
+ .NET Desktop Runtime x64 6 icon .NET Desktop Runtime x64 6
+.NET Desktop Runtime (x64) 6.0.16.32327
+ .NET Desktop Runtime 6 icon .NET Desktop Runtime 6
+.NET Desktop Runtime (x86) 6.0.16.32327
+ .NET Desktop Runtime x64 7 icon .NET Desktop Runtime x64 7
+.NET Desktop Runtime (x64) 7.0.5.32327
+ .NET Desktop Runtime 7 icon .NET Desktop Runtime 7
+.NET Desktop Runtime (x86) 7.0.5.32327
+Imaging
+ Krita icon Krita
+Painting Program 5.1.5.100
+ Blender icon Blender
+3D Creation Suite 3.5.1
+ Paint.NET icon Paint.NET
+Image Editor 5.5.8540.28689 (requires .NET 4.5)
+ GIMP icon GIMP
+Open Source Image Editor 2.10.34
+ IrfanView icon IrfanView
+Image Viewer 4.62
+ XnView icon XnView
+Image Viewer 2.51.2
+ Inkscape icon Inkscape
+Vector Graphics Editor 1.2.2
+ FastStone icon FastStone
+FastStone Image Viewer 7.7
+ Greenshot icon Greenshot
+Screenshot Tool 1.2.10.6
+ ShareX icon ShareX
+Screenshot Uploader
+Documents
+ Foxit Reader icon Foxit Reader
+Alternative PDF Reader 12.1.2.15332
+ LibreOffice icon LibreOffice
+Free Office Suite 7.5.3 (JRE recommended)
+ SumatraPDF icon SumatraPDF
+Lightweight PDF Reader 3.4.6
+ CutePDF icon CutePDF
+Print Documents as PDF Files 4.0
+ OpenOffice icon OpenOffice
+Free Office Suite 4.1.14 (JRE recommended)
+Security
+ Essentials icon Essentials
+Great Antivirus by Microsoft 4.10.209
+ Malwarebytes icon Malwarebytes
+Malware Remover 4.5.28.266
+ Avast icon Avast
+Avast Free Antivirus 23.4.8118
+ AVG icon AVG
+AVG Free Antivirus 23.4.3282
+ Spybot 2 icon Spybot 2
+Spyware Remover 2.7.64
+ Avira icon Avira
+Avira Free Antivirus 15.0.2201.2134
+ SUPERAntiSpyware icon SUPERAntiSpyware
+SUPERAntiSpyware Free 10.0.1252
+File Sharing
+ qBittorrent icon qBittorrent
+Free Bittorrent Client 4.5.2
+Online Storage
+ Dropbox icon Dropbox
+Great Online Backup/File Sync 174.4.5852
+ Google Drive for Desktop icon Google Drive for Desktop
+Online File Sync 75.0.2.0
+ OneDrive icon OneDrive
+Online File Sync by Microsoft 22.151.0717.0001
+ SugarSync icon SugarSync
+Online Backup/File Sync 4.1.3.2
+Other
+ Evernote icon Evernote
+Online Notes 6.25.1.9091
+ Google Earth icon Google Earth
+Online Atlas by Google 7.3.6.9345
+ Steam icon Steam
+App Store for Games
+ KeePass 2 icon KeePass 2
+Password Manager 2.53.1
+ Everything icon Everything
+Local File Search Engine 1.4.1.1023
+ NV Access icon NV Access
+Screen Reader 2023.1
+Utilities
+ TeamViewer 15 icon TeamViewer 15
+Remote Access Tool 15.42.5
+ ImgBurn icon ImgBurn
+Disc Burner 2.5.8.0
+ RealVNC Server icon RealVNC Server
+RealVNC Remote Access 7.1.0.49525
+ RealVNC Viewer icon RealVNC Viewer
+RealVNC Remote Access 7.1.0.49525
+ TeraCopy icon TeraCopy
+Better File Copy 3.9.7
+ CDBurnerXP icon CDBurnerXP
+Disc Burner 4.5.8.7128 (requires .NET)
+ Revo icon Revo
+App Uninstaller/Reverse Ninite 2.4.4
+ Launchy icon Launchy
+Hotkey Launcher 2.5
+ WinDirStat icon WinDirStat
+Directory Statistics 1.1.2.80
+ Glary icon Glary
+System Utilities 5.205.0.234
+ InfraRecorder icon InfraRecorder
+Disc Burner 0.53.0
+ Classic Start icon Classic Start
+Classic Shell Win8 Start Menu 4.3.1
+Compression
+ 7-Zip icon 7-Zip
+Great Compression App 22.01
+ PeaZip icon PeaZip
+File Compression Tool 9.1.0
+ WinRAR icon WinRAR
+Another Compression Tool 6.21 (Trial)
+Developer Tools
+ Python x64 3 icon Python x64 3
+Programming Language 3.11.3
+ Python 3 icon Python 3
+Programming Language 3.11.3
+ Python icon Python
+Great Programming Language 2.7.18
+ FileZilla icon FileZilla
+FTP Client 3.64.0
+ Notepad++ icon Notepad++
+Programmer's Editor 8.5.3
+ JDK (AdoptOpenJDK) x64 8 icon JDK (AdoptOpenJDK) x64 8
+64-bit Java Development Kit 8u372-b07
+ JDK (AdoptOpenJDK) 8 icon JDK (AdoptOpenJDK) 8
+Java Development Kit 8u362-b09
+ JDK (AdoptOpenJDK) x64 11 icon JDK (AdoptOpenJDK) x64 11
+64-bit Java Development Kit 11.0.19
+ JDK (AdoptOpenJDK) x64 17 icon JDK (AdoptOpenJDK) x64 17
+64-bit Java Development Kit 17.0.7
+ JDK (Amazon Corretto) x64 8 icon JDK (Amazon Corretto) x64 8
+64-bit Java Development Kit 8u372-b07
+ JDK (Amazon Corretto) 8 icon JDK (Amazon Corretto) 8
+Java Development Kit 8u372-b07
+ JDK (Amazon Corretto) x64 11 icon JDK (Amazon Corretto) x64 11
+64-bit Java Development Kit 11.0.19
+ JDK (Amazon Corretto) x64 17 icon JDK (Amazon Corretto) x64 17
+64-bit Java Development Kit 17.0.7
+ WinSCP icon WinSCP
+SCP Client 6.1.0
+ PuTTY icon PuTTY
+SSH client 0.78
+ WinMerge icon WinMerge
+Compare and Merge Files 2.16.30
+ Eclipse icon Eclipse
+IDE for Java 4.27.0 (requires Java)
+ Visual Studio Code icon Visual Studio Code
+Programmer's Editor 1.78.2
+2. Download and run your custom installer/updater
+Please check off the apps you want above.
+
+
+Ninite works on Windows 11, 10, 8.x, 7, and equivalent Server versions.
+
+Ninite will
+start working as soon as you run it
+not bother you with any choices or options
+install apps in their default location
+say no to toolbars or extra junk
+install 64-bit apps on 64-bit machines
+install apps in your PC's language or one you choose
+do all its work in the background
+install the latest stable version of an app
+skip up-to-date apps
+skip any reboot requests from installers
+use your proxy settings from Internet Explorer
+download apps from each publisher's official site
+verify digital signatures or hashes before running anything
+work best if you turn off any web filters or firewalls
+save you a lot of time!
+Suggest an app
+We only add popular user-requested apps to Ninite.
+
+Show suggestion form
+
+Manage all your machines on the web with Ninite Pro
+Ninite Pro's new web interface
+
+Ninite Pro has a new web interface. Click here to learn more.
+
+Our website is free for home use (money-wise, but also free of ads and junkware) because Pro users keep Ninite running.
+
+Thousands of organizations use Ninite Pro to patch and secure software including
+A few Ninite Pro users
+Try it for free right now
+jobs about press updates security privacy terms
+© Secure by Design Inc
